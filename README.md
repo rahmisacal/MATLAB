@@ -2,7 +2,6 @@
 
 - İsmail Sünbül
 - Eren Özdemir
-- Mesut Muhammet Şahin
 - Rahmi Saçal
 
 ### AÇIKLAMA
